@@ -1,2 +1,4 @@
 created file in branch1
+this is changedcreated file in branch1
 this is changed
+branch1 file is changed
